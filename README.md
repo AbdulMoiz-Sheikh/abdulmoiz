@@ -1,9 +1,8 @@
 # abdulmoiz
-🚀 Web Dev Learner | 🐍 Python Beginner | 🤖 Agentic AI Enthusiast   Building. Learning. Improving.
 <h1 align="center">Hey 👋, I'm Abdul Moiz </h1>
 
-<p align="center">
-Web Dev Learner | Python Beginner | Agentic AI Enthusiast  
+<p align="center">  
+🚀 Web Dev Learner | 🐍 Python Beginner | 🤖 Agentic AI Enthusiast   Building. Learning. Improving.
 </p>
 
 ---
@@ -22,11 +21,6 @@ Web Dev Learner | Python Beginner | Agentic AI Enthusiast
 - **Programming:** Python  
 - **Tools:** MS Word, Excel, PowerPoint  
 - **Design:** Basic Photoshop & Illustrator  
-
----
-
-### 📫 Contact Me
-[📧 Email: moiz56091@gmail.com](mailto:moiz56091@gmail.com)
 
 ---
 
